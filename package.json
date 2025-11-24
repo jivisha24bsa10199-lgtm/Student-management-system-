@@ -1,0 +1,19 @@
+{
+  "name": "student-management-system",
+  "version": "1.0.0",
+  "description": "A comprehensive Java-based Student Management System",
+  "scripts": {
+    "build": "echo 'Java project - use Maven: mvn clean compile'",
+    "test": "echo 'Java project - use Maven: mvn test'",
+    "run": "echo 'Java project - use Maven: mvn exec:java'"
+  },
+  "keywords": [
+    "java",
+    "student-management",
+    "education",
+    "database",
+    "supabase"
+  ],
+  "author": "",
+  "license": "ISC"
+}
